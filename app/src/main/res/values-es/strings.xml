@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="top_title">Calculadora-EduardGirona</string>
+    <string name="Divide0">Error! No puedes dividir entre 0</string>
+</resources>
